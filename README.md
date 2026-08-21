@@ -1,6 +1,6 @@
 # Customer Shopping Behavior Analysis
 
-<img width="917" height="614" alt="image" src="https://github.com/user-attachments/assets/0a8b1348-2902-40ae-ada5-08a909be2007" />
+<img width="957" height="637" alt="image" src="https://github.com/user-attachments/assets/3c372800-aff7-4a70-aeac-184ea9bbb5bb" />
 
 ## Overview
 
